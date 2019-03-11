@@ -3,8 +3,6 @@ aaa
 bbb
 ccc
 
-<<<<<<< Updated upstream
 2019-03-11 a
-=======
+
 2019-03-11 b
->>>>>>> Stashed changes
